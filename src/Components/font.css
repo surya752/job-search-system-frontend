@@ -1,0 +1,6 @@
+.text{
+    font-family: sans-serif;
+}
+.text :hover{
+    color: blue;   
+}

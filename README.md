@@ -1,4 +1,5 @@
         # Job Search System Frontend 🚀
+![image alt]()
 
         Welcome to the **Job Search System Frontend** project! This is a React-based application designed to simplify the job search process.
 

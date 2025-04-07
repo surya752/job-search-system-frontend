@@ -11,7 +11,7 @@
         ## Installation 🛠️
         1. Clone the repository:
             ```bash
-            git clone https://github.com/your-username/job-search-system-frontend.git
+            git clone https://github.com/surya752/job-search-system-frontend.git
             ```
         2. Navigate to the project directory:
             ```bash
